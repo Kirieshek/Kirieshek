@@ -2,14 +2,11 @@
 
 #
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/saOybZUSPlQAAAAi/spin-haunter.gif"  />
-</div>
+<img align="right" height="160" src="https://media.tenor.com/Q-HPMBFXRbQAAAAi/effects-hat-and-scarf-snowman-yume-nikki.gif"  />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/w33hdDzoSE0AAAAi/haunter.gif"  />
-</div>
+<h3 align="left">While I was making a snowman, I turned into it myself. I don't regret anything.<br><br><br>-The Great Snowman</h3>
 
 ###
+
