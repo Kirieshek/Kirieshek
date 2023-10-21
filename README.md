@@ -2,11 +2,12 @@
 
 #
 
-<img align="right" height="160" src="https://media.tenor.com/Q-HPMBFXRbQAAAAi/effects-hat-and-scarf-snowman-yume-nikki.gif"  />
+<img align="right" height="110" src="https://media.tenor.com/Q-HPMBFXRbQAAAAi/effects-hat-and-scarf-snowman-yume-nikki.gif"  />
 
 ###
 
-<h3 align="left">While I was making a snowman, I turned into it myself. I don't regret anything.<br><br><br>-The Great Snowman</h3>
+> <h3 align="left">While I was making a snowman, I turned into it myself. I don't regret anything.<br><br><br>-The Great Snowman</h3>
+
 
 ###
 
