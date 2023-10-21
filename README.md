@@ -1,3 +1,3 @@
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=F7C238&background=9BFF3F00&center=true&height=100&lines=...WELCOME+HERE%2C+STRANGER...)](https://github.com/khudysh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7DD10&random=false&width=435&lines=...Good+morning+here+%F0%9F%8C%9F)](https://git.io/typing-svg)
 #
